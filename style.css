@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin: 10px;
+}
+header img{
+    margin: 5px;
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+footer{
+    background-color: pink;
+    padding: 5px;
+}
+footer p{
+    background-color: white;
+}
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: blue;
+    padding: 3px;
+}
+.nav{
+    color: blue;
+    background-color: white;
+}
+.x{
+    background-color: violet;
+    padding: 5px;
+}
+main{
+    margin: 10px;
+}
+h2{
+    font-size: 30px;
+    color: blue;
+}
+.a{
+    text-decoration: none;
+    border: 2px solid blueviolet;
+    color: blueviolet;
+    border-radius: 5px;
+    padding: 3px;
+}
